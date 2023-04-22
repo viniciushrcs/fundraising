@@ -1,0 +1,11 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@chainlink/contracts": "^0.5.1",
+    "hardhat": "^2.12.4"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "ethers": "^5.7.2"
+  }
+}
